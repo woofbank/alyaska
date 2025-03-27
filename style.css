@@ -1,0 +1,22 @@
+#map {
+  width: 70%;
+  height: 600px;
+  float: left;
+}
+
+#info {
+  width: 30%;
+  height: 600px;
+  float: left;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+#info-content {
+  margin-top: 20px;
+}
+
+#info-content img {
+  max-width: 100%;
+  height: auto;
+}
